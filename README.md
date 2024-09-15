@@ -10,7 +10,7 @@ To get started with this project, follow the steps below to set up your environm
 
 Clone the repository to your local machine.
 
-Navigate to the project directory: /E:/Projects/Bahria University/Open-CV lab/Images/ Note : This is path where my repo is located use your own.
+Navigate to the project directory.
 
 Create a virtual environment using your preferred method. For example, using venv:
 
